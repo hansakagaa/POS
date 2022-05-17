@@ -58,7 +58,7 @@
             <Font name="DejaVu Sans Mono Bold" size="22.0" />
          </font>
       </Label>
-      <Label fx:id="Description" alignment="CENTER" layoutX="14.0" layoutY="313.0" prefHeight="16.0" prefWidth="577.0" text="Please select one of above main operations to proceed">
+      <Label fx:id="lblDescription" alignment="CENTER" layoutX="14.0" layoutY="313.0" prefHeight="16.0" prefWidth="577.0" text="Please select one of above main operations to proceed">
          <font>
             <Font name="Ubuntu" size="12.0" />
          </font>
